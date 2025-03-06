@@ -1,0 +1,12 @@
+/*
+Theme Name:     blue
+Description:    a blue theme
+Author:         yanni51
+Template:       hello-elementor
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+header a,#content a{
+    color: #74789b;
+}
